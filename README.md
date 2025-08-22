@@ -8,7 +8,7 @@ Este proyecto crea una imagen de Docker que muestra la frase **"Hola Cómputo en
 
 1. Construir la imagen:
    ```bash
-   docker build -t angelrosado
+   docker build -t angelrosado .
 2. Ejecutar el contenedor:
    ```bash
    docker run -d -p 80:80 angelrosado
