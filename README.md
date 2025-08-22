@@ -1,15 +1,14 @@
 # docker-angelrosado
-# Hola Cómputo en la nube - Docker (Apache)
 
 Este proyecto crea una imagen de Docker que muestra la frase **"Hola Cómputo en la nube"** en un servidor web con Apache.
 
 ---
 
-## Pasos para ejecutar
+## Pasos
 
 1. Clonar el repositorio:
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
+   git clone <urldelrepositorio>
    cd docker-angelrosado
 2. Construir la imagen:
    ```bash
